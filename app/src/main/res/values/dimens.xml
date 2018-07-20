@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_view_height">150dp</dimen>
+
+    <dimen name="iv_item_form_image_width">180dp</dimen>
+    <dimen name="iv_item_form_image_height">180dp</dimen>
+</resources>

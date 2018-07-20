@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Add found thing</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_post_title">Title*</string>
+    <string name="str_item_description">Description*</string>
+    <string name="str_user_name">Name*</string>
+    <string name="str_user_phone_number">Phone number*</string>
+    <string name="str_user_email_adress">Email adress</string>
+    <string name="str_bt_accept">Accept</string>
+    <string name="gps_network_not_enabled">Please enable your location</string>
+    <string name="open_location_settings">Enable</string>
+    <string name="Cancel">Cancel</string>
+    <string name="new_memory_btn_gallery">PHOTO FROM GALLERY</string>
+    <string name="new_memory_btn_camera">TAKE PHOTO</string>
+    <string name="new_memory_btn_cancel">CANCEL</string>
+    <string name="new_memory_btn_save">SAVE</string>
+</resources>
